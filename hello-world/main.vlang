@@ -1,4 +1,8 @@
 @import "../stdlib/io.vlang"
 
-printline("Hello World!");
+func int main() {
+        printline("Hello World!");
+}
+
+main();
 
